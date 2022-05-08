@@ -1,2 +1,2 @@
 # Yaafi-resolusi
-repository untuk menyimpan yaafi kedepannya
+repository untuk menyimpan resoulusi yaafi kedepannya
